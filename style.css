@@ -8,9 +8,9 @@
     font-family: 'Pangolin', cursive;
     text-align: center;
 }
-html{
+body{
     background-color: #272829;
-    margin: 0px
+    margin: 0px;
 }
 #l{
     color: white;
@@ -45,8 +45,4 @@ color: black;
 }
 #eight{
     margin-left: 50px;
-}
-#box{
-    width: 400px;
-    height: 800px;
 }
