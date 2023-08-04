@@ -1,0 +1,48 @@
+#one{
+    background-color: #272829;
+    color: white;
+    font-family: 'Bungee Spice', cursive;
+    text-align: center;
+}
+#two{
+    font-family: 'Pangolin', cursive;
+    text-align: center;
+}
+body{
+    background-color: #272829;
+    margin: 0px
+}
+#l{
+    color: white;
+    font-family: 'Tektur', cursive;
+    font-size: larger;
+}
+a{
+color: black;
+}
+#three{
+    background-color: #61677A;
+    padding: 10px 150px 10px 150px;
+    margin: 0px 0px 0px 0px;
+}
+#four{
+    background-color: #D8D9DA;
+    padding: 10px 950px 10px 950px;
+    margin: 0px 0px 0px 0px;
+}
+#five{
+    background-color:  #FFF6E0;
+    padding: 10px 150px 10px 150px;
+    margin: 0px 0px 0px 0px;
+}
+#six{
+    height: 150px;
+    text-align: center;
+}
+.large{
+    color: white;
+    size: 60px;
+}
+#eight{
+    margin-left: 50px;
+}
