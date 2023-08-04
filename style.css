@@ -8,7 +8,7 @@
     font-family: 'Pangolin', cursive;
     text-align: center;
 }
-body{
+html{
     background-color: #272829;
     margin: 0px
 }
@@ -22,17 +22,17 @@ color: black;
 }
 #three{
     background-color: #61677A;
-    padding: 10px 150px 10px 150px;
+    padding: 10px 50px 10px 50px;
     margin: 0px 0px 0px 0px;
 }
 #four{
     background-color: #D8D9DA;
-    padding: 10px 950px 10px 950px;
+    padding: 10px 50px 10px 50px;
     margin: 0px 0px 0px 0px;
 }
 #five{
     background-color:  #FFF6E0;
-    padding: 10px 150px 10px 150px;
+    padding: 10px 50px 10px 50px;
     margin: 0px 0px 0px 0px;
 }
 #six{
@@ -45,4 +45,8 @@ color: black;
 }
 #eight{
     margin-left: 50px;
+}
+#box{
+    width: 400px;
+    height: 800px;
 }
