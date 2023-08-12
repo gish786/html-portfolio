@@ -1,4 +1,5 @@
-
+@media(max-width:600px)
+{
 #one{
     background-color: #272829;
     color: white;
@@ -47,4 +48,4 @@ color: black;
 #eight{
     margin-left: 50px;
 }
-
+}
